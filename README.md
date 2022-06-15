@@ -3,7 +3,7 @@
 KerasNLP provides lots of building blocks for NLP (model layers, tokenizers, metrics, etc.) and
 makes it convenient to construct NLP pipelines on the fly.
 
-In this tutorial we'll use KerasNLP's `UnicodeTokenizer` to train a sequence-to-sequence Transformer model on English-to-French translation. This example draws inspiration from [Character-level recurrent sequence-to-sequence model example](https://keras.io/examples/nlp/lstm_seq2seq/) by [fchollet](https://twitter.com/fchollet) and uses the same dataset and __Abheest's Guide Here__ and uses the same model architecture and decoding code.
+In this tutorial we'll use KerasNLP's `UnicodeTokenizer` to train a sequence-to-sequence Transformer model on English-to-French translation. This example draws inspiration from [Character-level recurrent sequence-to-sequence model example](https://keras.io/examples/nlp/lstm_seq2seq/) by [fchollet](https://twitter.com/fchollet) and uses the same dataset and __Abheest's Guide Here Once Published__ and uses the same model architecture and decoding code.
 
 This tutorial broadly covers the following:
 - Tokenization using `keras_nlp.tokenizers.UnicodeCharacterTokenizer` to obtain character level tokens.
